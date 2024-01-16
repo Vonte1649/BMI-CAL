@@ -14,3 +14,10 @@ How to use
 5. The script will calculate your BMI and provide feedback on your weight status.
 
 
+What is BMI?
+Body Mass Index is a number calculated from a person's weight and height. it provides a rough estimate of whether a person has a healthy body weight for a person of their height, depending on their BMI value. A person can fall into one of the following categories:
+
+Underweight: BMI is less than 18.5
+Normal weight: BMI is 18.5 to 24.9
+Overweight: BMI is 25 to 34.9
+Severely Obese: BMI is 35 and above 
